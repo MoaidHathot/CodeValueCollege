@@ -1,1 +1,1 @@
-This folder contains projects that were used as a live demo
+This folder contains projects that were used as a live demo.
